@@ -88,7 +88,7 @@ plt.show()
 
 ### Result
 
-![Result Image]([https://example.com/path_to_your_image.jpg](https://raw.githubusercontent.com/ziishanahmad/ai-object-identifying-model/main/predicted.png))  <!-- Replace with your actual image URL -->
+![Result Image](https://raw.githubusercontent.com/ziishanahmad/ai-object-identifying-model/main/predicted.png)  
 
 ## Contributing
 
